@@ -2,6 +2,8 @@
 
 This MCP server provides functionality to search YouTube videos and automatically save the results to Google Sheets. It's designed to work with Claude and other AI assistants that support the Model Context Protocol.
 
+[English](README.md) | [日本語](README.ja.md)
+
 ## Features
 
 - Search YouTube videos using the YouTube Data API v3
