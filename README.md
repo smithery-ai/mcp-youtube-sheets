@@ -54,20 +54,7 @@ Add the server to your MCP settings file:
 
 ## Usage
 
-Use the MCP tool in your AI assistant:
-
-```
-<use_mcp_tool>
-<server_name>youtube-sheets</server_name>
-<tool_name>search_and_save</tool_name>
-<arguments>
-{
-  "query": "programming tutorial",
-  "maxResults": 5
-}
-</arguments>
-</use_mcp_tool>
-```
+“Ask the AI assistant to ‘search for YouTube videos with “ChatGPT usage” and retrieve 10 videos’ and try using it in that way.”
 
 ## Output Format
 
