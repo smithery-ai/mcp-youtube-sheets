@@ -12,7 +12,7 @@ This MCP server provides functionality to search YouTube videos and automaticall
 ## Installation
 
 ```bash
-npm install @mcp-tools/youtube-sheets-server
+npm install @rikukawa/youtube-sheets-server
 ```
 
 ## Prerequisites
@@ -82,3 +82,11 @@ MIT
 ## Author
 
 Riku Kawashima
+
+## Repository
+
+[GitHub Repository](https://github.com/Rickyyy1116/mcp-youtube-sheets)
+
+## NPM Package
+
+[@rikukawa/youtube-sheets-server](https://www.npmjs.com/package/@rikukawa/youtube-sheets-server)

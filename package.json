@@ -1,5 +1,5 @@
 {
-  "name": "@mcp-tools/youtube-sheets-server",
+  "name": "@rikukawa/youtube-sheets-server",
   "version": "1.0.0",
   "type": "module",
   "main": "build/index.js",
@@ -23,8 +23,12 @@
   "description": "MCP server for searching YouTube videos and saving results to Google Sheets",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kawashimaken/mcp-youtube-sheets.git"
+    "url": "git+https://github.com/Rickyyy1116/mcp-youtube-sheets.git"
   },
+  "bugs": {
+    "url": "https://github.com/Rickyyy1116/mcp-youtube-sheets/issues"
+  },
+  "homepage": "https://github.com/Rickyyy1116/mcp-youtube-sheets#readme",
   "devDependencies": {
     "@types/node": "^20.11.19",
     "ts-node": "^10.9.2",
