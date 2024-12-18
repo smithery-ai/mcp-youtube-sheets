@@ -52,20 +52,7 @@ MCPの設定ファイルにサーバーを追加します：
 
 ## 使用方法
 
-AIアシスタントで以下のようにMCPツールを使用します：
-
-```
-<use_mcp_tool>
-<server_name>youtube-sheets</server_name>
-<tool_name>search_and_save</tool_name>
-<arguments>
-{
-  "query": "プログラミング入門",
-  "maxResults": 5
-}
-</arguments>
-</use_mcp_tool>
-```
+AIアシスタントに、『「ChatGPT　使い方」でYoutube動画を調べて動画を10個取得して。』といったように指示して使用してみてください。
 
 ## 出力形式
 
