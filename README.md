@@ -1,5 +1,7 @@
 # YouTube to Google Sheets MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@rikukawa/youtube-sheets-server)](https://smithery.ai/server/@rikukawa/youtube-sheets-server)
+
 This MCP server provides functionality to search YouTube videos and automatically save the results to Google Sheets. It's designed to work with Claude and other AI assistants that support the Model Context Protocol.
 
 [English](README.md) | [日本語](README.ja.md)
@@ -13,6 +15,15 @@ This MCP server provides functionality to search YouTube videos and automaticall
 
 ## Installation
 
+### Installing via Smithery
+
+To install YouTube to Google Sheets for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@rikukawa/youtube-sheets-server):
+
+```bash
+npx -y @smithery/cli install @rikukawa/youtube-sheets-server --client claude
+```
+
+### Manual Installation
 ```bash
 npm install @rikukawa/youtube-sheets-server
 ```
